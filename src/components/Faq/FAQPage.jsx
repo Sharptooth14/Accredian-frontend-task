@@ -8,12 +8,12 @@ const FAQPage = () => {
   const tabs = ["Eligibility", "How To Use?", "Terms & Conditions"];
   const faqs = [
     {
-      question: "Do I need prior Product Management and Project Management experience to enroll?",
-      answer: "No, the program is designed for all levels of experience, covering topics from the basics.",
+      question: "Who is eligible for the referral bonus?",
+      answer: "The referrer (the person making the referral) is eligible for the bonus if they refer a family member or friend to an Accredian program, and that person completes the admission process and enrolls in one of Accredian’s programs.",
     },
     {
-      question: "What is the minimum system configuration required?",
-      answer: "A stable internet connection and a modern web browser are sufficient to access the program.",
+      question: "What are conditions for eligibility in Accredian's referral program?",
+      answer: "The referred individual must be a new inquiry, having had no prior contact with Accredian for any intake or program.",
     },
   ];
 
